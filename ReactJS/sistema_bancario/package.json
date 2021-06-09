@@ -1,0 +1,13 @@
+{
+  "name": "sistema_bancario",
+  "version": "1.0.0",
+  "description": "Projeto de Sistema Bancário para clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Rafael Ribeiro",
+  "license": "ISC",
+  "type": "module"
+}
